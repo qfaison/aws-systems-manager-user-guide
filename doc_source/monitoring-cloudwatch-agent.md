@@ -1,6 +1,6 @@
 # Send Logs to CloudWatch Logs \(CloudWatch Agent\)<a name="monitoring-cloudwatch-agent"></a>
 
-You can configure and use the Amazon CloudWatch Agent to collect metrics and logs from your instances instead of using SSM Agent for these tasks\. The CloudWatch Agent enables you to gather more metrics on Amazon EC2 instances than are available using SSM Agent\. In addition, you can gather metrics from on\-premises servers using the CloudWatch Agent\. 
+You can configure and use the Amazon CloudWatch Agent to collect metrics and logs from your shubham instead of using SSM Agent for these tasks\. The CloudWatch Agent enables you to gather more metrics on Amazon EC2 instances than are available using SSM Agent\. In addition, you can gather metrics from on\-premises servers using the CloudWatch Agent\. 
 
 You can also store agent configuration settings in the Systems Manager Parameter Store for use with the CloudWatch Agent\.
 
